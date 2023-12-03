@@ -1,5 +1,7 @@
 
 # Jupyter Notebook
+.DS_Store
+DS_Store
 .ipynb_checkpoints
 Crashes.csv
 
